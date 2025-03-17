@@ -22,7 +22,7 @@ Analysis Method: Linear regression model to predict batch failure rates based on
 
 Project Structure:
 
-Untitled73.ipynb: Contains the complete workflow including data retrieval, preprocessing, exploratory analysis, model training, prediction, and visualization.
+Granulation and Compression Optimization to Minimize Tablet Batch Failures.ipynb: Contains the complete workflow including data retrieval, preprocessing, exploratory analysis, model training, prediction, and visualization.
 
 Installation and Dependencies:
 
@@ -46,23 +46,7 @@ How to Run:
 
 Clone this repository.
 
-Open and run the Jupyter Notebook Untitled73.ipynb.
-
-Outcome:
-
-The analysis presented aids in understanding and optimizing manufacturing parameters, significantly reducing the batch failure rates, and enhancing overall manufacturing efficiency in pharmaceutical tablet production.
-
-Libraries Used:
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-Seaborn
-
-Scikit-learn
+Open and run the Jupyter Notebook Granulation and Compression Optimization to Minimize Tablet Batch Failures.ipynb.
 
 Pre-processing: Data transformation, including logarithmic scaling of numerical features (compression force, binder ratio).
 
