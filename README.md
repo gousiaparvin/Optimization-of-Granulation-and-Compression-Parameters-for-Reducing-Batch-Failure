@@ -82,13 +82,11 @@ Seaborn
 
 Scikit-learn
 
-Outcome:
+# Outcome:
 
 This project demonstrates how statistical modeling and data analysis can significantly optimize pharmaceutical processes by accurately predicting batch failure rates, thus enhancing tablet manufacturing efficiency.
 
-Author:
-
-Gousia Parvin Shaik
+# Author:Gousia Parvin Shaik
 
  pip install numpy pandas matplotlib seaborn scikit-learn
  Requirement already satisfied: numpy in c:\users\dgous\anaconda3\lib\site-pac
