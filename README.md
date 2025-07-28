@@ -1,12 +1,12 @@
 # Optimization-of-Granulation-and-Compression-Parameters-for-Reducing-Batch-Failure
 Optimization of Granulation and Compression Parameters for Reducing Batch Failure in Tablet Formulations
-Project Overview:
 
-Project Overview:
+
+# Project Overview:
 
 This project utilizes real-time pharmaceutical manufacturing data sourced from official pharmaceutical data repositories and platforms. The primary goal is to optimize granulation and compression parameters to minimize tablet batch failure rates using machine learning techniques.
 
-Project Details:
+# Project Details:
 
 Data Source: Real-time pharmaceutical datasets obtained from reputable sources and official databases dedicated to pharmaceutical manufacturing data.
 
@@ -18,19 +18,19 @@ Compression Force (range 5-50 kN)
 
 Binder Ratio (%)
 
-Analysis Method: Linear regression model to predict batch failure rates based on granulation method, compression force, and binder ratio.
+# Analysis Method: Linear regression model to predict batch failure rates based on granulation method, compression force, and binder ratio.
 
-Project Structure:
+# Project Structure:
 
 Granulation and Compression Optimization to Minimize Tablet Batch Failures.ipynb: Contains the complete workflow including data retrieval, preprocessing, exploratory analysis, model training, prediction, and visualization.
 
-Installation and Dependencies:
+# Installation and Dependencies:
 
 Ensure you have the required libraries installed:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-Libraries Used:
+# Libraries Used:
 
 NumPy
 
@@ -42,19 +42,17 @@ Seaborn
 
 Scikit-learn
 
-How to Run:
-
-Clone this repository.
+# How to Run:
 
 Open and run the Jupyter Notebook Granulation and Compression Optimization to Minimize Tablet Batch Failures.ipynb.
 
-Pre-processing: Data transformation, including logarithmic scaling of numerical features (compression force, binder ratio).
+# Pre-processing: Data transformation, including logarithmic scaling of numerical features (compression force, binder ratio).
 
-Machine Learning Model: Linear Regression to model and predict the batch failure rate based on formulation parameters.
+# Machine Learning Model: Linear Regression to model and predict the batch failure rate based on formulation parameters.
 
-Visualization: Scatter plot comparing actual vs. predicted batch failure rates to illustrate model accuracy and effectiveness.
+# Visualization: Scatter plot comparing actual vs. predicted batch failure rates to illustrate model accuracy and effectiveness.
 
-Project Structure:
+# Project Structure:
 
 Untitled73.ipynb: Contains the code for data generation, data preprocessing, exploratory data analysis, model training, prediction, and visualization.
 
